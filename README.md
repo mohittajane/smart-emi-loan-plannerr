@@ -77,3 +77,4 @@ I created this tool because EMI and loan calculations are commonly used before p
 - The EMI formula is accurate and uses monthly compounding.
 - The app is designed with a polished dashboard experience.
 - Replace `your-email@example.com` with the real email before publishing.
+"# smart-emi-loan-plannerr" 
